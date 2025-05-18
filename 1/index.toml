@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+hash = "2d4171ee2a04021a5912ec405756bb2ff5a191ac7667c6cba69cf5d3b5888cd2"
 metafile = true
 
 [[files]]
@@ -743,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/odyssey-allies.pw.toml"
 hash = "80eba8b043949a366b74a7224ce6f83f837339cf78728d02de268139e4860a71"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "87f3ec2b65da8fedcf571b8e172b2e32f76f249e7f83ff055caecc69e9d27182"
 metafile = true
 
 [[files]]
