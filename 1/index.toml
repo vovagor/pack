@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
+hash = "f742a944fa71ac4aa470bbdc0a781578e0e05e1a06fbe41a001ff00965ce1a64"
 metafile = true
 
 [[files]]
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/create-broken-bad.pw.toml"
 hash = "a9dd74fd8cff0e7890b69ee7036162ae2e3659141b0dfd774a7ef45086694a35"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "d31c742e6dacf85d60415a75dbbe70e68ce17839ceeec858235f599606ab4632"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
+hash = "955f26b4395dfd23edbad828e9deaa60957b7cdfe604d47c5fe4e46df2800fe5"
 metafile = true
 
 [[files]]
@@ -261,13 +266,18 @@ hash = "7dca9a704bfe6bec63cf4b5d5274b318109e43ca915b540fde07a748fa2f1bac"
 metafile = true
 
 [[files]]
+file = "mods/create-songs-and-speakers-iam-music-player-fork.pw.toml"
+hash = "ca11bc06d669fa2ecacb0c334bd78199002aef011a5c02f5581573ee6fb5aead"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
 metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "8d568223f61b027a5db4622d9d15dd8d00ccefe99e1cdcb6b62c0f0fae5c6f27"
+hash = "ef51c20608c715f6834e3bb08a852c2e39e8b27b21f655ee3b424419999070a8"
 metafile = true
 
 [[files]]
@@ -338,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
+metafile = true
+
+[[files]]
+file = "mods/edible-broken-bad-stuff.pw.toml"
+hash = "8f21ab2588df57ac2b4bba91f9e8622e617df5b10e2b349175a157d27a04b47e"
 metafile = true
 
 [[files]]
@@ -477,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "632c93f30f4ec119ff6acbd825c57609bbf86b06b9c2c8cc024ee3ab2cc89d94"
 metafile = true
 
 [[files]]
@@ -528,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
 metafile = true
 
 [[files]]
@@ -607,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
+hash = "9c4c6c5980c293a89646db8a97768e8208e85c5d2c7fd95a37b1a650df3391bc"
 metafile = true
 
 [[files]]
@@ -746,11 +766,6 @@ hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
 metafile = true
@@ -778,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]
@@ -853,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "014f6a45e3853e6048b9bada3dc89c813adc0ffc402734c80908a9426c3fe725"
+metafile = true
+
+[[files]]
+file = "mods/simple-login.pw.toml"
+hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
 metafile = true
 
 [[files]]
@@ -937,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+hash = "e5f7a51585bb0dbec0d4c33cc06797008f1fff434872766d8fe2fd19e06f3b37"
 metafile = true
 
 [[files]]

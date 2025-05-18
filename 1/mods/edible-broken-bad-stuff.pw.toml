@@ -1,0 +1,13 @@
+name = "edible broken bad stuff"
+filename = "edible_meth-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vkIyH5Sc/versions/V0H7zSOD/edible_meth-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "9adcabf5213a806435a6880beb67e9a171a5f341edacae8b85ac2f9d7faa9ba51cc38f274e4e6e1aac53fb7fb4d5862d1170c76653c9ea84799cdb8947f6284f"
+
+[update]
+[update.modrinth]
+mod-id = "vkIyH5Sc"
+version = "V0H7zSOD"
