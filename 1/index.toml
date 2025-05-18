@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
+hash = "5e727d91523c52e5056a57556d63118fe26802d824668c662195c8abf762a265"
 metafile = true
 
 [[files]]
