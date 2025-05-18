@@ -1,0 +1,13 @@
+name = "Zigy's Player Animator API"
+filename = "playeranimatorapi-forge-1.20.1-2.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IkQufrWh/versions/l6G93NvJ/playeranimatorapi-forge-1.20.1-2.1.6.jar"
+hash-format = "sha512"
+hash = "4980cbbbdfd003c01116264b786d7a9d72f83d1b0103acfb3fe8c61f6dd8faef68226a170b0442d17df3ec1fe5c278e3174d6d061f69844d4802015acb1e88ee"
+
+[update]
+[update.modrinth]
+mod-id = "IkQufrWh"
+version = "l6G93NvJ"

@@ -1,0 +1,13 @@
+name = "Stuff Ain't Cheap"
+filename = "stuffaintcheap-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oypvQXjW/versions/tQK5iK5k/stuffaintcheap-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "18d1c237eb0a980c2f18685775f48035b05cc5d6b883eee3eaa50769f4fff13fc723d1043f774fc26cb6134c5eeceabd6c4a822621f102a07e624cc723a310c0"
+
+[update]
+[update.modrinth]
+mod-id = "oypvQXjW"
+version = "tQK5iK5k"

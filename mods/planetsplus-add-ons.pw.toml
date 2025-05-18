@@ -1,0 +1,13 @@
+name = "Ad Astra: Planets+ Add-ons"
+filename = "planets+-mekinisam-compat-bv1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6wbvOys7/versions/Xa5wTlqv/planets%2B-mekinisam-compat-bv1.1.jar"
+hash-format = "sha512"
+hash = "10d699ef84679ff1f0904378ddd4a740cf50531f5e8d9cc426dc9a2aadc05cd9726eb8498307dc71d93b3eebbe75d59b55c138287c1ea7d1f73ede3073e157c2"
+
+[update]
+[update.modrinth]
+mod-id = "6wbvOys7"
+version = "Xa5wTlqv"

@@ -1,0 +1,13 @@
+name = "Shield Overhaul"
+filename = "shield_overhaul-2.0.2-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XGoaJBjR/versions/Bbyxg3C6/shield_overhaul-2.0.2-FORGE.jar"
+hash-format = "sha512"
+hash = "0e35dec06425bfe194af754fc0214ae6e73b43e1df0cf5fd4fb9e7779cd921f6f5dfa5b7fc3b9fe46b3b2e6b5c4452f4b1fb7b1ab3ba542d4de754541969133a"
+
+[update]
+[update.modrinth]
+mod-id = "XGoaJBjR"
+version = "Bbyxg3C6"

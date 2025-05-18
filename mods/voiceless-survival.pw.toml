@@ -1,0 +1,13 @@
+name = "Voiceless Survival"
+filename = "ezvcsurvival-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JJ3q7W2X/versions/qz0O0wj6/ezvcsurvival-forge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "a98d21d35b0a458c4cd96ba37cd15bbe45e17f68552d786bb7c5294b481d3dbcec3eecb1df0cdd7aa537541a4ea551efe670748feffcd0ef290ada2809dbf67e"
+
+[update]
+[update.modrinth]
+mod-id = "JJ3q7W2X"
+version = "qz0O0wj6"

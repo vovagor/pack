@@ -1,0 +1,13 @@
+name = "[TACZ]LesRaisins Append Pack"
+filename = "lradd-1.20.1-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWxaCnwP/versions/L3bBKl65/lradd-1.20.1-0.2.4.jar"
+hash-format = "sha512"
+hash = "21efdcd3d1fe188556467cc911bb543922cb91c56ecdb16383ca64d3037fad901686ed39edd4f04d1fd63517192750af0cfb85ba9af9f67ccd4535d351175c2b"
+
+[update]
+[update.modrinth]
+mod-id = "vWxaCnwP"
+version = "L3bBKl65"

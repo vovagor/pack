@@ -1,0 +1,13 @@
+name = "Ad-Astra: Canned Food"
+filename = "ad_astra_cannedfood-forge-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KnjBtJs9/versions/u9Ias9vL/ad_astra_cannedfood-forge-1.2.5.jar"
+hash-format = "sha512"
+hash = "34faec0fd2f6dafcb1961adff3cfb44754ebc1d0a75ee005d6284556f286180c7afa4bd44ad5099b50a20f75624ca7f71cc0d380cae4991092bc0202d33890e8"
+
+[update]
+[update.modrinth]
+mod-id = "KnjBtJs9"
+version = "u9Ias9vL"

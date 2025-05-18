@@ -1,0 +1,13 @@
+name = "Trinkets and Baubles Reforked"
+filename = "trinketsandbaubles-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/45CeEOgI/versions/VfwiCWHl/trinketsandbaubles-1.2.8.jar"
+hash-format = "sha512"
+hash = "fd8f9884de8ab1eaf7665df72d93e30656943ef4855c06a11becc81d467310b02436b4601872fac460bea9144a75b0cc877193d09b7d83517f3e916c14c5ed43"
+
+[update]
+[update.modrinth]
+mod-id = "45CeEOgI"
+version = "VfwiCWHl"

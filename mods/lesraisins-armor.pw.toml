@@ -1,0 +1,13 @@
+name = "LesRaisins Armor"
+filename = "lrarmor-1.20.1-0.1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iSupMfXz/versions/dfHoF5Zc/lrarmor-1.20.1-0.1.4.3.jar"
+hash-format = "sha512"
+hash = "6ed2ece5463abdc24a2a1e852da9d8cc9043e5a330cc9fe3ad5a50bc5eccf5542c35933ffb507e76243d5d8c25717321ab337b1b216f749d17f27da765bf3a3a"
+
+[update]
+[update.modrinth]
+mod-id = "iSupMfXz"
+version = "dfHoF5Zc"

@@ -1,0 +1,13 @@
+name = "Create: TaCZ Automation"
+filename = "createtaczauto-1.2.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ODSZapix/versions/lF3f9o1a/createtaczauto-1.2.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6628d366d8700b8cb03f849d9f647afb59cc5a7992a0e932145ae8d552ef5855c547f221c86b280e0899d8d1291b3f0e562d9ce411a85f57aff07ed8d838ca2d"
+
+[update]
+[update.modrinth]
+mod-id = "ODSZapix"
+version = "lF3f9o1a"
