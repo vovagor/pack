@@ -106,6 +106,11 @@ hash = "b2aba59dc46a1c2155245c7980cd9222a3f3c3fc9a9438b9f2065ebd43cf3d21"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "a887995b6b13005086ea935735d41aee51b81bfc79c49b7b36028f7f8dd148dc"
 metafile = true
@@ -308,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
@@ -631,8 +641,13 @@ hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/mcef.pw.toml"
-hash = "9c4c6c5980c293a89646db8a97768e8208e85c5d2c7fd95a37b1a650df3391bc"
+hash = "dabcd499eaf9960f3c3aa682cdc8be73b5899342912ca557a79525495d96ab61"
 metafile = true
 
 [[files]]
