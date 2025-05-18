@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "86b58252b003b9984b4d30c18f205a9628bfbb74c28750af013b036e9648b84f"
+hash = "9d230cbee4bc3a67a75a2901a6cf857cac433f59a17865d636e51c8c37aa2b1a"
 metafile = true
 
 [[files]]
 file = "mods/almost-unify-everything.pw.toml"
-hash = "9f54fb535c90936437384f97a8cf75924bce62cc99338523e4710e2b5d21c6aa"
+hash = "846d0101fa531a1bdf928a125928d811b5b4795315a64ab322cd63794d686124"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/cat_jam.pw.toml"
-hash = "efe89d7d8e4a9f6b91b9f88c3f99b842d744f07207cb89e8107f28dff8b14580"
+hash = "fb8e50f87404b021d8de41b6a2bafd63f8aeb8faf8a39cf05ae13aaa0cecb489"
 metafile = true
 
 [[files]]
@@ -993,6 +993,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e5f7a51585bb0dbec0d4c33cc06797008f1fff434872766d8fe2fd19e06f3b37"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
