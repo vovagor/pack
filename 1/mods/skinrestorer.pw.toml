@@ -1,0 +1,13 @@
+name = "Skin Restorer"
+filename = "skinrestorer-2.3.1+1.20-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/u5PnwxD4/skinrestorer-2.3.1%2B1.20-forge.jar"
+hash-format = "sha512"
+hash = "419b62c992e3617b9b996a0454457660d8b26c36d58ee99261002ddbef38b6ef9f5c12778c02109ba6b1600064505450b96fdf26f465100955c332432f65db06"
+
+[update]
+[update.modrinth]
+mod-id = "ghrZDhGW"
+version = "u5PnwxD4"
