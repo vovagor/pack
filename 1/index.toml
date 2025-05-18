@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-broken-bad.pw.toml"
-hash = "a9dd74fd8cff0e7890b69ee7036162ae2e3659141b0dfd774a7ef45086694a35"
+hash = "a81dec536288a3a68c77e7d3dd68e1008f47b4866952bdc7d470a73fd4cfe47d"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-songs-and-speakers-iam-music-player-fork.pw.toml"
-hash = "ca11bc06d669fa2ecacb0c334bd78199002aef011a5c02f5581573ee6fb5aead"
+hash = "1b6743c6e926938df55e0fe6dc526deac6590a31374bb296f7b8b0b563aecd10"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-login.pw.toml"
-hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
+hash = "8e25db024b022032cac3ea6a7ee1b2909cc537d98d71bf2c3f49bb67d888a2ec"
 metafile = true
 
 [[files]]

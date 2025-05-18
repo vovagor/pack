@@ -3,8 +3,8 @@ filename = "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3.jar
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca77e31c8345728edf849d5f711a0e99c4589ba7"
+hash-format = "sha512"
+hash = "e908e7909a6a6b9d322bd208ca99e3118aa17103c6ea22a85a0e356c5730c18c8d64fce090de7593907886860ad6f837f3158f7a5973d9d03692933c12029e2f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "SimpleLogin-1.20.1-1.0.2-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2fcdb0d2221b32fc4f64dea2957ec0dd7ace3174"
+hash-format = "sha512"
+hash = "2fb9e461230c02fa6687de632528fc62934772e6b3993ad3f8c4a128c4e50d41c287494acb96132ac561d21684db657ce528d3f365378046f2b09a39267b8f07"
 mode = "metadata:curseforge"
 
 [update]
