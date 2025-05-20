@@ -956,6 +956,11 @@ hash = "09fd45a2d5ff56566e4378e4416b057d4e1d8b9aa1990f3b67f5d2d58175f383"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "f962e982a519b939831a5ef7d120b6a00c411123edefda90ea8e8d2aac0def1e"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
