@@ -151,8 +151,23 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "702433eedd02735d948b78c6c976dbb4b1fb8edf07888fdd2a35892a55a46777"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "fb8e50f87404b021d8de41b6a2bafd63f8aeb8faf8a39cf05ae13aaa0cecb489"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "54d504d50b2db25d38ca813b9d7069f5e9e1628044942f1c6bc80d14e1a66f6e"
 metafile = true
 
 [[files]]
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/create-optical.pw.toml"
 hash = "7dca9a704bfe6bec63cf4b5d5274b318109e43ca915b540fde07a748fa2f1bac"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "e36d18211a20ec0bef1cb3a49f26d4a7188dcb0e8bbcc105d65515a16b52a661"
 metafile = true
 
 [[files]]
@@ -623,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
+file = "mods/kontraption.pw.toml"
+hash = "6e009a2d889b6b42410409ad6b487aa3b3e428b7c0e37bb315cd213b42e8f616"
 metafile = true
 
 [[files]]
@@ -1081,6 +1106,21 @@ hash = "fec452c84916a374d47db3ca7491bb9b17c470b9316a2d4487b7d98a03facd82"
 metafile = true
 
 [[files]]
+file = "mods/valkib.pw.toml"
+hash = "fbdaf8b4771f81f4d458a3d5393af702c158f8d4bcda493dd2168d9b9207b02e"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "1bc5457c81fd6db2f13432a16682d8c4177a930b04fd0404368ae0b185c931f9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-2-+-supplementaries-cannon-fix.pw.toml"
+hash = "b57459b7aaaa34c9a1a660b5521125d20c27331aa6fde02baaf348b81fd393c9"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
 metafile = true
@@ -1091,8 +1131,23 @@ hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
 metafile = true
 
 [[files]]
+file = "mods/vmod.pw.toml"
+hash = "0c622fb2ec704889cc943184455750a2d00b9779a19acb9fcf3904fe8eb17de9"
+metafile = true
+
+[[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "5dc399e999c926c22ec8cdc66fa696c456a84175809c697b78e7008574d3404a"
+metafile = true
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
+metafile = true
+
+[[files]]
+file = "mods/vs-tournament.pw.toml"
+hash = "09bc666249e4d1d029c01d8fc298732b25ddd98edb49d5fc19dd0ceb5fd70d9e"
 metafile = true
 
 [[files]]
