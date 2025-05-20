@@ -161,6 +161,16 @@ hash = "fb8e50f87404b021d8de41b6a2bafd63f8aeb8faf8a39cf05ae13aaa0cecb489"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "457f82eb5d7b278e706d1c544ffb4186b6e8d45ff69f6af03d92e9c2758b8a94"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "54d504d50b2db25d38ca813b9d7069f5e9e1628044942f1c6bc80d14e1a66f6e"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true
@@ -1138,11 +1148,6 @@ metafile = true
 [[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "5dc399e999c926c22ec8cdc66fa696c456a84175809c697b78e7008574d3404a"
-metafile = true
-
-[[files]]
-file = "mods/vs-crumbles.pw.toml"
-hash = "ddf5f0b3c4c757479d0784a79731e24cf2779654c95b1bb1b38d58b1ae9042d4"
 metafile = true
 
 [[files]]
