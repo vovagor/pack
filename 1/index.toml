@@ -56,11 +56,6 @@ hash = "252f756f2ed3073d34560aeb39e25298285ecaae6db344addc24d2aea8ee3c19"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "f3dcfa1315e6d61baff98fd0a54bde856bbdba8e2ba6b7b9e19d9710d7432b2f"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -922,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "254785f92b4b5f599e6556aa258e17fce0a3b78fff876e6960d6dc11848cc40d"
+hash = "fb56cfa15405ffea7fd63f89edd4a2071c199ccef9632a271bf0aba925ea672d"
 metafile = true
 
 [[files]]
@@ -958,11 +953,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
 metafile = true
 
 [[files]]
