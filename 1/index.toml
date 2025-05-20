@@ -56,6 +56,11 @@ hash = "252f756f2ed3073d34560aeb39e25298285ecaae6db344addc24d2aea8ee3c19"
 metafile = true
 
 [[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "a35153af121d2440285d016ffc6c49c486d4b956d01597b0a1c28ee81f11c44b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -156,6 +161,11 @@ hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "ae09f4be75a77d041ef0752e9791b0287859543f502fc901bab276faee759678"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "bedbc2d1793865a8bfc57bc511a04fdd25497ebdccbebfaae00f95d5c16dc9ef"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
 
 [[files]]
@@ -303,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "9eaeb03f62828ce0b3490196abc8b5c4e46c88abbd8db335c2f4d30e37e1a6be"
 metafile = true
 
 [[files]]
@@ -461,6 +481,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "1e0d35e8a6627461696a9ba379cfe6f1c4210728d9b664f3611dc20c1acd4217"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
@@ -493,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "1290dafea5f85e79f46a3478d5278ee4020d8400d85b45448ac548952e1d1e25"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "bfe8e8ef61657bfc608211ceec3ba076813b6b534b31ab05c51d52fdbdaf6833"
 metafile = true
 
 [[files]]
@@ -628,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
+metafile = true
+
+[[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "686fa9e001d88a8d6209426fbe13fb84a13fc9e1d72cf02717e3bbee4dec3d86"
 metafile = true
 
 [[files]]
@@ -826,6 +861,11 @@ hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "b9ec4ecd23b415b2ec3b4dca7b5efbe3b7918944e890362eecf6c90270399d30"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
@@ -876,11 +916,6 @@ hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
 metafile = true
 
 [[files]]
-file = "mods/seamless.pw.toml"
-hash = "29f25a469069955140e0dfc82353cbcfab50f3feb87e739543c6dab25635c081"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -918,11 +953,6 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "09fd45a2d5ff56566e4378e4416b057d4e1d8b9aa1990f3b67f5d2d58175f383"
-metafile = true
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "fb56cfa15405ffea7fd63f89edd4a2071c199ccef9632a271bf0aba925ea672d"
 metafile = true
 
 [[files]]
@@ -1068,6 +1098,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
 metafile = true
 
 [[files]]
