@@ -1,12 +1,12 @@
 name = "bober"
 author = "goger"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d5df5e3a162cb410ae67cd1a430ad813c10e1606e092c84cb374a680467b1ba2"
+hash = "64aa2679abbea9a0d0783715a3d6943386058dc19c7efc5bca20d81a0a7176bc"
 
 [versions]
 forge = "47.4.0"
