@@ -496,6 +496,11 @@ hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
 metafile = true
