@@ -166,6 +166,11 @@ hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "54d504d50b2db25d38ca813b9d7069f5e9e1628044942f1c6bc80d14e1a66f6e"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true
