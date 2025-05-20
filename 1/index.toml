@@ -151,6 +151,11 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "702433eedd02735d948b78c6c976dbb4b1fb8edf07888fdd2a35892a55a46777"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "fb8e50f87404b021d8de41b6a2bafd63f8aeb8faf8a39cf05ae13aaa0cecb489"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+hash = "822d22e7134bcdc29c8668266e0a33f975561de14135a15b4029b7178d3b97ce"
 metafile = true
 
 [[files]]
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/create-optical.pw.toml"
 hash = "7dca9a704bfe6bec63cf4b5d5274b318109e43ca915b540fde07a748fa2f1bac"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "e36d18211a20ec0bef1cb3a49f26d4a7188dcb0e8bbcc105d65515a16b52a661"
 metafile = true
 
 [[files]]
@@ -476,6 +486,11 @@ hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
 metafile = true
@@ -623,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
+file = "mods/kontraption.pw.toml"
+hash = "6e009a2d889b6b42410409ad6b487aa3b3e428b7c0e37bb315cd213b42e8f616"
 metafile = true
 
 [[files]]
@@ -813,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "87f3ec2b65da8fedcf571b8e172b2e32f76f249e7f83ff055caecc69e9d27182"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
@@ -1081,6 +1106,21 @@ hash = "fec452c84916a374d47db3ca7491bb9b17c470b9316a2d4487b7d98a03facd82"
 metafile = true
 
 [[files]]
+file = "mods/valkib.pw.toml"
+hash = "fbdaf8b4771f81f4d458a3d5393af702c158f8d4bcda493dd2168d9b9207b02e"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "1bc5457c81fd6db2f13432a16682d8c4177a930b04fd0404368ae0b185c931f9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-2-+-supplementaries-cannon-fix.pw.toml"
+hash = "b57459b7aaaa34c9a1a660b5521125d20c27331aa6fde02baaf348b81fd393c9"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
 metafile = true
@@ -1091,8 +1131,23 @@ hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
 metafile = true
 
 [[files]]
+file = "mods/vmod.pw.toml"
+hash = "0c622fb2ec704889cc943184455750a2d00b9779a19acb9fcf3904fe8eb17de9"
+metafile = true
+
+[[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "5dc399e999c926c22ec8cdc66fa696c456a84175809c697b78e7008574d3404a"
+metafile = true
+
+[[files]]
+file = "mods/vs-crumbles.pw.toml"
+hash = "ddf5f0b3c4c757479d0784a79731e24cf2779654c95b1bb1b38d58b1ae9042d4"
+metafile = true
+
+[[files]]
+file = "mods/vs-tournament.pw.toml"
+hash = "09bc666249e4d1d029c01d8fc298732b25ddd98edb49d5fc19dd0ceb5fd70d9e"
 metafile = true
 
 [[files]]
