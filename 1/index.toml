@@ -916,11 +916,6 @@ hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
 metafile = true
 
 [[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "87eab26cd888f428a042c2fbbd0892d96bd2bd64a21de5933a5e3ccc73717750"
-metafile = true
-
-[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "254785f92b4b5f599e6556aa258e17fce0a3b78fff876e6960d6dc11848cc40d"
 metafile = true
