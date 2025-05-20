@@ -1106,6 +1106,11 @@ hash = "fec452c84916a374d47db3ca7491bb9b17c470b9316a2d4487b7d98a03facd82"
 metafile = true
 
 [[files]]
+file = "mods/valkib.pw.toml"
+hash = "fbdaf8b4771f81f4d458a3d5393af702c158f8d4bcda493dd2168d9b9207b02e"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-relogs.pw.toml"
 hash = "1bc5457c81fd6db2f13432a16682d8c4177a930b04fd0404368ae0b185c931f9"
 metafile = true
