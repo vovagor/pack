@@ -1,5 +1,5 @@
 name = "Skin Shuffle"
-side = "both"
+side = "client"
 filename = "SkinShuffle-2.4.0+1.20.1.jar"
 
 [update.modrinth]
