@@ -161,11 +161,6 @@ hash = "fb8e50f87404b021d8de41b6a2bafd63f8aeb8faf8a39cf05ae13aaa0cecb489"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true
@@ -213,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
 metafile = true
 
 [[files]]
@@ -483,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
