@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "b9ec4ecd23b415b2ec3b4dca7b5efbe3b7918944e890362eecf6c90270399d30"
+hash = "bab2e132c85e9f434feba63dea8a3dc6c64f02ac576b32c878e1130a0d4f06e2"
 metafile = true
 
 [[files]]
