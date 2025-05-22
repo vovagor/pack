@@ -1091,6 +1091,11 @@ hash = "7a4a4a29d5714bfae86321107dfa7a4e05d7b22a419bc472d1e351a99010aa6c"
 metafile = true
 
 [[files]]
+file = "mods/trackwork.pw.toml"
+hash = "28be4cbc383219609173f427c918e0593e98498accd31fdb923ab00d8e6cbe3d"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
 metafile = true
