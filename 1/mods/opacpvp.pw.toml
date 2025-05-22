@@ -1,0 +1,13 @@
+name = "Open Parties and Claims PvP Support"
+filename = "opacpvp-forge-1.0.1-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xcparckV/versions/qbogIOst/opacpvp-forge-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "6f29d3f3c9d85bb24b2b897ab609b504f08b32d57a53a69882b6fe29361d237ac3015cd6d7aad064ecaf2f75959e42042dbef178bc4213540d60462101e98876"
+
+[update]
+[update.modrinth]
+mod-id = "xcparckV"
+version = "qbogIOst"

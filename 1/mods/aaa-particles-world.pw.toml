@@ -1,0 +1,13 @@
+name = "AAA Particles: World"
+filename = "aaa_particles_world-forge-1.20.1-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yr92MC4d/versions/VqglhU9z/aaa_particles_world-forge-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "bbea9b6b51447f03ba4c3051c7abe16a29ee111f64e0a661fa3ef0be8905f1b2f49b3339f4a13ed42f59bb58e88f503f2a25a8be289985f5187f91b0aa6f30ab"
+
+[update]
+[update.modrinth]
+mod-id = "Yr92MC4d"
+version = "VqglhU9z"

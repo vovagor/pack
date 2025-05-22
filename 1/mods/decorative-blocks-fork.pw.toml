@@ -1,0 +1,13 @@
+name = "Decorative Blocks"
+filename = "Decorative Blocks-forge-1.20.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cq0m2EIu/versions/joFfuMtv/Decorative%20Blocks-forge-1.20.1-4.0.2.jar"
+hash-format = "sha512"
+hash = "98d3b6e4f27a1af87e388713bbe1dd51aeb9fdcedde826d48603ad8027874580ee9d9a7189425307a34d174ced2e582e38704cb487dedcb6471dc91944fc7e59"
+
+[update]
+[update.modrinth]
+mod-id = "Cq0m2EIu"
+version = "joFfuMtv"
