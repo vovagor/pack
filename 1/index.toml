@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "b9a2a04674d4daef0095c32bfa5346ae8f5547034fac85d86d4733ecb9fa8aa9"
-metafile = true
-
-[[files]]
 file = "mods/aaa-particles-world.pw.toml"
 hash = "047b675e6c5861d73f1b02c6af4936aff95571d373684156ec8d464d183d471c"
 metafile = true
@@ -673,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/highlight.pw.toml"
 hash = "93fcd56edb3ba42170308ff68ac97edf659e8464e47d18a6d7e7dd1602a3bea1"
-metafile = true
-
-[[files]]
-file = "mods/hold-my-items-reforged.pw.toml"
-hash = "758db3c0df8183d72cdbc924123801e24442c2d3f42906194094cbc160277812"
 metafile = true
 
 [[files]]
