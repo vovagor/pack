@@ -96,11 +96,6 @@ hash = "252f756f2ed3073d34560aeb39e25298285ecaae6db344addc24d2aea8ee3c19"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "8a8be245a99113340c703437936243f4af3b1458f54cd5f63bf8544db130e699"
-metafile = true
-
-[[files]]
 file = "mods/animationoverhaul.pw.toml"
 hash = "a35153af121d2440285d016ffc6c49c486d4b956d01597b0a1c28ee81f11c44b"
 metafile = true
