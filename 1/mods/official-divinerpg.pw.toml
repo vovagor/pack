@@ -3,8 +3,8 @@ filename = "divinerpg-1.10.7.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a75badda378f90b8ef426ac7a4185fe5ac4f5df3"
+hash-format = "sha512"
+hash = "ec6f593d02099dab5f10a099f96697818b2f64a2caa756de751505ea94a8c915c767488c9bf29cfd8d4afb3033e10beb493dd357fd45442519e85838f8f3161e"
 mode = "metadata:curseforge"
 
 [update]
