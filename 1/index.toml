@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "8a8be245a99113340c703437936243f4af3b1458f54cd5f63bf8544db130e699"
+hash = "e441a53cfaa83cdb9544833bfa92351c6a741a902a71878f0716af668d011626"
 metafile = true
 
 [[files]]
@@ -773,11 +773,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
-metafile = true
-
-[[files]]
-file = "mods/kontraption.pw.toml"
-hash = "6e009a2d889b6b42410409ad6b487aa3b3e428b7c0e37bb315cd213b42e8f616"
 metafile = true
 
 [[files]]
