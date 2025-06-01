@@ -421,11 +421,6 @@ hash = "f9e7fd6eb672fc57140c6f08e3a3cfd68db2fe7abf3ca5c3575bcbe7cf2a3cf0"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks-fork.pw.toml"
 hash = "a16b9230cdd052dcb709014786ce58a19b169b8fb187c5b83ccdad17f839701c"
 metafile = true
@@ -1148,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "984db2c18b1f6793a40ae7ee3623bc60291a1b87beed450c3653976201da9951"
 metafile = true
 
 [[files]]
